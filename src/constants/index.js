@@ -135,8 +135,8 @@ export const contactText = [
         title: "대표 : 임주연",
     },
     {
-        link: "mailto:https://sports.news.naver.com",
-        title: "mail : naversports@naver.com",
+        link: "mailto:https://imjooyeon@itcobot.com",
+        title: "mail : imjooyeon@itcobot.com",
     },
 ];
 
